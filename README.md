@@ -1,4 +1,4 @@
-# pano2kinematics-stack
+# PANORAMICS
 
 Umbrella repository that assembles the full real-time **markerless → biomechanical** pipeline:
 
@@ -13,7 +13,7 @@ This repository pins exact versions via **git submodules** for **reproducibility
 ## Repository structure
 
 ```
-pano2kinematics-stack/
+PANORAMICS/
   deps/
     theta-x-stream-tools/
     pano2kinematics/
