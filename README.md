@@ -1,5 +1,8 @@
 # PANORAMICS
 
+**Panoramic Analysis for Natural Observation and Real-time Assessment of Markerless Integrated Capture Systems**
+
+
 Umbrella repository that assembles the full real-time **markerless → biomechanical** pipeline:
 
 1. **Theta X stream** → shared-memory socket (`/tmp/theta_bgr.sock`)
@@ -13,7 +16,7 @@ This repository pins exact versions via **git submodules** for **reproducibility
 ## Repository structure
 
 ```
-PANORAMICS/
+pano2kinematics-stack/
   deps/
     theta-x-stream-tools/
     pano2kinematics/
